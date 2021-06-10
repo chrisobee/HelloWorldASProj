@@ -1,0 +1,2 @@
+rootProject.name = "HelloWorldAndroid"
+include ':app'
